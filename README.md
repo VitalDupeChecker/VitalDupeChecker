@@ -28,3 +28,7 @@ The item outline will change colors if the item is duped.
 
 
 THIS MOD IS FOR 1.8.9
+
+
+
+It specializes in dupe checking, therefore making it much more reliable.
