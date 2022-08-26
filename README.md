@@ -31,4 +31,4 @@ THIS MOD IS FOR 1.8.9
 
 
 
-It specializes in dupe checking, therefore making it much more reliable.
+It specializes in dupe checking, therefore making it much more reliable than skytils, sbe, or any discord bot.
