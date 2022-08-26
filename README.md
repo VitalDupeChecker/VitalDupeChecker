@@ -27,8 +27,13 @@ The item outline will change colors if the item is duped.
 
 
 
+It specializes in dupe checking, therefore making it much more reliable than skytils, sbe, or any discord bot.
+
+
+
+
 THIS MOD IS FOR 1.8.9
 
 
 
-It specializes in dupe checking, therefore making it much more reliable than skytils, sbe, or any discord bot.
+
